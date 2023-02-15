@@ -30,8 +30,9 @@
     border: 10px;
     background-color: red;
     font-family: 'Times New Roman', Times, serif;
-    width: 50%;
+    width: 65%;
     align-items: center;
     border: black;
-    padding: 20px;
+    padding: 25px;
+    border-collapse: collapse;
 }
