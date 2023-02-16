@@ -36,3 +36,24 @@
     padding: 25px;
     border-collapse: collapse;
 }
+
+.LUKE:hover{
+    font-family: 'Times New Roman', Times, Serif;
+    font-size: 17px;
+    color:black;
+    background-color: rgb(4, 73, 73);
+    filter: blur(1px);
+    box-shadow: 5px 10px #888888;
+    border-color: coral;
+}
+.REVENUE:hover{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(64, 114, 14);
+    background-color: rebeccapurple;
+    filter: blur(1px);
+    box-shadow: 5px 10px #888888;
+    border-color: crimson;
+}
+
+
