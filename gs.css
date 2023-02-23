@@ -56,4 +56,19 @@
     border-color: crimson;
 }
 
+ul.navbar-horizontal{
+    display:flex;
+     
+  }
+  ul li{
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+  }
+  li a{
+    text-decoration: none;
+    background-color: rgb(226, 249, 226);
+  }
+  
+
 
